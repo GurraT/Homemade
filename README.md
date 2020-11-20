@@ -81,7 +81,9 @@ Sum	|22	|17
 
 ### Wireframe
 #### Large devices
-![Wireframe](assets/img/Computer_wireframe.pdf "Wireframe large devices")
+[Wireframe](assets/documents/Computer_wireframe.pdf "Wireframe large devices")
+#### Small devices
+[Wireframe](assets/documents/Wireframe_small%20devices.pdf "Wireframe snall devices")
 
 #
 
